@@ -1,0 +1,5 @@
+"""
+Test suite for DoS Attack Detection System
+"""
+
+__version__ = "1.0.0"
