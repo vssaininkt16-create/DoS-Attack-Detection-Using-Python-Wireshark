@@ -1,9 +1,9 @@
 ## 👨‍💻 Professional Resume
 
-**Name:** Developer  
-**Email:** your-email@example.com  
-**Phone:** Your Phone Number  
-**Location:** Your Location
+**Name:** Vishal saini  
+**Email:** vssaininkt16@gmail.com  
+**Phone:** 9351946070  
+**Location:** Noida 
 
 ---
 
@@ -174,9 +174,28 @@ Feel free to:
 ## 📞 Quick Links
 
 - **GitHub Profile:** https://github.com/vssaininkt16-create
-- **DoS Detection Project:** https://github.com/vssaininkt16-create/DoS-Attack-Detection-Using-Python-Wireshark
-- **Clone Command:** `git clone https://github.com/vssaininkt16-create/DoS-Attack-Detection-Using-Python-Wireshark`
 
 ---
 
 **✨ Your professional security project is live and ready to showcase your skills!**
+
+---
+
+## 🧾 Selected Projects
+
+- **Network Traffic Visualizer**
+
+	A lightweight Python-based tool to visualize and explore network traffic patterns in real time. It parses PCAP files and live captures, plots protocol distributions, and highlights anomalous flows for quick forensic analysis.
+
+	- **Tech:** Python, Scapy, Matplotlib/Plotly
+	- **Highlights:** Interactive visualizations, PCAP import/export, filtering by protocol/IP/port
+	- **GitHub (placeholder):** https://github.com/vssaininkt16-create/network-traffic-visualizer
+
+- **Threat Intelligence Aggregator**
+
+	Aggregates open-source threat intelligence feeds, normalizes IOC formats (IP, domain, hash), and correlates with local network events to prioritize alerts.
+
+	- **Tech:** Python, Requests, SQLite/ElasticSearch
+	- **Highlights:** Feed ingestion, IOC normalization, correlation engine, export to JSON/CSV
+	- **GitHub (placeholder):** https://github.com/vssaininkt16-create/threat-intel-aggregator
+
